@@ -1,3 +1,4 @@
+#run example:  python task_1.py "C:\Projects\Tier_1" "C:\Projects\Tier_2"
 import os
 import asyncio
 import shutil
